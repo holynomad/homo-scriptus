@@ -18,6 +18,8 @@
     - 수험원서 원본 1️⃣부
     - 의료기초(의료법, 의학용어) 면제대상자는 아니라서 pass... 👉 [시험과목 일부면제자 조건체크](https://www.simsa.kr/03_information/information_02.php)
   - 2021년 하반기 시험일정
+    - 시험일 : 11/21(일) 14:00 (온라인)
+    - 접수기간 : 9/27(월)~11/5(금)
   - [원서접수](https://www.simsa.kr/04_receipt/receipt_01.php)
     - 인터넷접수 준비물 (관련문의 T.02-6342-0234) : 한국의료행정실무협회 회원가입, 반명함판 스캔이미지, 검정수수료 결제(2급 : 46,000원), 인터넷 원서작성
     - 
@@ -30,6 +32,9 @@
     - K병원 심사팀 제니퍼샘
     - who else ?
 
+  - 관련 유튜브 채널
+    - [건강보험 청구심사 실무특강 샘플 강의 (너스케입, 2020.7.)](https://youtu.be/7LpKU2UYSAU)
+    - [보험심사, 의학용어 샘플강의 (너스케입, 2018.9.)](https://www.youtube.com/watch?v=4G0NetkSXtI&list=PLUihElL8hIZszif6gLbnh9TGcj43YbmjT)
 
 ## 진행
 
