@@ -1,5 +1,5 @@
 # homo-scriptus
 
-## [인생노래]()
+## [인생노래](./songsinmylife.md)
 
-## [HIS 진료개발자의 보험심사평가사 2급 취득기 (feat. 마흔살 두아이 아빠)]()
+## [HIS 진료개발자의 보험심사평가사 2급 취득기 (feat. 마흔살 두아이 아빠)](./getcertofclaim.md)
