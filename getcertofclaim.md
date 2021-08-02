@@ -39,6 +39,7 @@
     - [[보험심사] 급여, 비급여, 100:100 용어 / 슬기로운 심사공부 (양쌤튜브, 2020.5.)](https://youtu.be/y0dFhjSKpGw)
     - [심사청구가 뭐지!? (심청이TV, 2020.1.)](https://youtu.be/6OJSp-hEAHk)
     - [건강보험심사평가원의 진료비 심사/평가 과정 (HIRA, 2018.4.)](https://youtu.be/C9ok-ypD2sQ)
+    - [요양급여 심사청구 강좌 (부산디지털대학교)](http://www.kocw.net/home/cview.do?cid=a8b0e30c5047185f)
 
 ## 진행
 
