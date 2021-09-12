@@ -18,7 +18,7 @@
     - 수험원서 원본 1️⃣부
     - 의료기초(의료법, 의학용어) 면제대상자는 아니라서 pass... 👉 [시험과목 일부면제자 조건체크](https://www.simsa.kr/03_information/information_02.php)
   - [2021년 하반기 시험일정](https://www.simsa.kr/02_notice/notice_01.php?md=view&no=282&page=1&refer=)
-    - 시험일 : 11/21(일) 14:00 (온라인 예정)
+    - 시험일 : 11/21(일) 14:00 ~ 16:30 (코로나19 감염확산방지 위한 온라인시험 예정) ➡️ [시행공고 바로가기](https://www.simsa.kr/02_notice/notice_01.php?md=view&no=290&page=1&refer=%3Ftb%3Din_bbs_notice%26page%3D1)
     - 접수기간 : 9/27(월)~11/5(금)
   - [원서접수](https://www.simsa.kr/04_receipt/receipt_01.php)
     - 인터넷접수 준비물 (관련문의 T.02-6342-0234) : 한국의료행정실무협회 회원가입, 반명함판 스캔이미지, 검정수수료 결제(2급 : 46,000원), 인터넷 원서작성
