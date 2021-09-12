@@ -45,7 +45,7 @@
 
   - 제1부 요양급여기준
     - 문제접근 플로우
-    - 예시1) (64p) 고열구역관류요법 시행시 적정 행위료 산정으로 옳은 것 ?
+    - 예시1) `(64p) 고열구역관류요법 시행시 적정 행위료 산정으로 옳은 것` ?
       - [심퍙원 > 제도정책 > 보험인정기준](https://www.hira.or.kr/rd/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000000) > "고열구역관류요법" 키워드 검색
       - <img width="1035" alt="스크린샷 2021-09-13 오전 1 04 11" src="https://user-images.githubusercontent.com/43846264/132994725-b628b228-72d7-4d22-a801-70f61be3562e.png">
       - 고시내용 중 "산정기준" 부분 체크 (👉 자 190 부분체외순환으로 산정)
@@ -53,7 +53,8 @@
       - 더욱 상세한 내역을 보고 싶을 땐, [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "자 190" 검색 
       - <img width="1440" alt="스크린샷 2021-09-13 오전 1 10 58" src="https://user-images.githubusercontent.com/43846264/132994930-e6c3cd8b-ac99-4764-a125-9d0733ff4573.png">
 
-    - 예시2) Both Hip Spica Cast 수기료 산정방법으로 옳은 것 ?
+
+    - 예시2) `Both Hip Spica Cast 수기료 산정방법으로 옳은 것` ?
       - 
  
 
