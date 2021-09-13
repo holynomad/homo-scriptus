@@ -55,8 +55,8 @@
 
 
       - 예시2) `전자궁적출술 후 1주일 후에 출혈이 심하여 개복하여 지혈 시 적정 수기료 산정으로 옳은 것` ?
-      - [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "전자궁적출술" 검색
-      - <img width="1437" alt="스크린샷 2021-09-13 오전 1 19 13" src="https://user-images.githubusercontent.com/43846264/132995139-e179ab8a-932f-43c0-9db3-f9f9c78d3d32.png">
+        - [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "전자궁적출술" 검색 (👉 자 244 산정)
+        - <img width="1437" alt="스크린샷 2021-09-13 오전 1 19 13" src="https://user-images.githubusercontent.com/43846264/132995139-e179ab8a-932f-43c0-9db3-f9f9c78d3d32.png">
 
  
  
