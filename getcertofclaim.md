@@ -58,6 +58,15 @@
         - [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "전자궁적출술" 검색 (👉 자 244 산정)
         - <img width="1437" alt="스크린샷 2021-09-13 오전 1 19 13" src="https://user-images.githubusercontent.com/43846264/132995139-e179ab8a-932f-43c0-9db3-f9f9c78d3d32.png">
 
+      - 예시3) `방사선 단순영상 진단 시 동일부위에 대해 산정 가능한 최대 매수로 옳은 것` ?
+        - 구글링 "건강보험 방사선단순영상진단" 검색 (👉 심평원 청구방법 및 급여기준 조회시스템 링크클릭)
+        - <img width="858" alt="스크린샷 2021-09-14 오전 1 05 51" src="https://user-images.githubusercontent.com/43846264/133118698-1e008644-da97-4824-8fdd-e00a7a0af706.png">
+        - [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "방사선단순영상진단" 검색 > 👉 요양급여기준 제3장 제1절 주3 참조시 `최대5매` 산정
+        - <img width="1424" alt="스크린샷 2021-09-14 오전 1 13 04" src="https://user-images.githubusercontent.com/43846264/133119770-8434caa8-6eb3-442b-aea5-fb2ce15bfb8a.png">
+        - <img width="500" alt="스크린샷 2021-09-14 오전 1 14 17" src="https://user-images.githubusercontent.com/43846264/133119917-bbcdf134-aaef-4abc-a10e-a8852a780764.png">
+
+
+
  
  
 
