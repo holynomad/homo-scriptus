@@ -44,7 +44,7 @@
 ## 진행
 
   - 제1부 요양급여기준
-    - `**문제접근 플로우**`
+    - `문제접근 플로우`
       - 예시1) `(64p) 고열구역관류요법 시행시 적정 행위료 산정으로 옳은 것` ?
         - [심퍙원 > 제도정책 > 보험인정기준](https://www.hira.or.kr/rd/insuadtcrtr/InsuAdtCrtrList.do?pgmid=HIRAA030069000000) > "고열구역관류요법" 키워드 검색
         - <img width="1035" alt="스크린샷 2021-09-13 오전 1 04 11" src="https://user-images.githubusercontent.com/43846264/132994725-b628b228-72d7-4d22-a801-70f61be3562e.png">
@@ -64,6 +64,23 @@
         - [건강보험심사평가원 청구방법 및 급여기준 조회시스템](http://rulesvc.hira.or.kr/lmxsrv/law/lawFullView.srv?SEQ=50) > "방사선단순영상진단" 검색 > 👉 요양급여기준 제3장 제1절 주3 참조시 `최대5매` 산정
         - <img width="1424" alt="스크린샷 2021-09-14 오전 1 13 04" src="https://user-images.githubusercontent.com/43846264/133119770-8434caa8-6eb3-442b-aea5-fb2ce15bfb8a.png">
         - <img width="500" alt="스크린샷 2021-09-14 오전 1 14 17" src="https://user-images.githubusercontent.com/43846264/133119917-bbcdf134-aaef-4abc-a10e-a8852a780764.png">
+
+      - 예시4) `항파킨슨 약제 투여의 요양급여 인정기준에 대한 설명으로 옳지 않은 것` ?
+        - 구글링 "항파킨슨 약제 요양급여 인정기준" 검색 (👉 요양급여의 적용기준 및 방법에 관한 세부사항(약제).pdf 클릭)
+        - <img width="727" alt="스크린샷 2021-09-15 오전 12 19 17" src="https://user-images.githubusercontent.com/43846264/133285852-b36bc11c-86c9-40ef-856f-6620127ee6d1.png">
+        - 관련 인정기준 중 잘못언급된 부분 체크 🙂
+        - <img width="444" alt="스크린샷 2021-09-15 오전 12 21 16" src="https://user-images.githubusercontent.com/43846264/133286215-5536ae08-47e9-47b2-8bde-29c9ac1fbf11.png">
+
+
+
+  - 제2부 의료기초 
+    - `제1장 의료관계법규 문제접근 플로우`
+      - 예시1) 요양병원을 개설할 수 있는 자로만 옳게 조합된 것은 ?
+        - 구글링 "의료법 요양기관 개설" 검색 (👉 의료법 제33조 관련 클릭)
+        - <img width="710" alt="스크린샷 2021-09-15 오전 12 24 53" src="https://user-images.githubusercontent.com/43846264/133286859-0367c205-b2e3-48d0-b79e-eda3e335cbee.png">
+        - 요양병원 개설이 가능한 조합찾기 (👉 의사 & 한의사)
+        - <img width="1383" alt="스크린샷 2021-09-15 오전 12 26 54" src="https://user-images.githubusercontent.com/43846264/133287228-a0099771-0d19-4b48-b184-16573ead8f23.png">
+
 
 
 
