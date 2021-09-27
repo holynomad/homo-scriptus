@@ -102,8 +102,6 @@
   - <img width="512" alt="스크린샷 2021-09-28 오전 12 35 52" src="https://user-images.githubusercontent.com/43846264/134940257-17a402ef-3b9d-4532-97a0-738137a450db.png">
   - <img width="511" alt="스크린샷 2021-09-28 오전 12 36 22" src="https://user-images.githubusercontent.com/43846264/134940357-438366ed-ff9f-4b66-8ca3-a0cb8b5af828.png">
   - <img width="507" alt="스크린샷 2021-09-28 오전 12 37 25" src="https://user-images.githubusercontent.com/43846264/134940522-b4a662c0-1798-4879-b3a1-92aa188b3f93.png">
-  - <img width="757" alt="스크린샷 2021-09-28 오전 12 38 08" src="https://user-images.githubusercontent.com/43846264/134940629-e76e3032-fb7f-42a2-a900-5def99beb17e.png">
-  - <img width="752" alt="스크린샷 2021-09-28 오전 12 38 28" src="https://user-images.githubusercontent.com/43846264/134940684-41b3576b-f4b2-4ae9-a072-e9e5e3fbfbc0.png">
   - <img width="760" alt="스크린샷 2021-09-28 오전 12 39 36" src="https://user-images.githubusercontent.com/43846264/134940863-92928e7c-e96a-41a2-83c4-bd35b1f9a94d.png">
 
 
