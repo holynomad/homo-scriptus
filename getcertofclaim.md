@@ -86,6 +86,25 @@
 
  
  
+## 온라인 시험 진행방법
+
+  - <img width="515" alt="스크린샷 2021-09-28 오전 12 30 21" src="https://user-images.githubusercontent.com/43846264/134939424-7554d917-d8e9-40aa-a410-72962c41f2d7.png">
+  - <img width="506" alt="스크린샷 2021-09-28 오전 12 31 21" src="https://user-images.githubusercontent.com/43846264/134939579-0eadc864-8401-4b81-93be-3c637ae0a95a.png">
+  - <img width="515" alt="스크린샷 2021-09-28 오전 12 31 43" src="https://user-images.githubusercontent.com/43846264/134939627-443502b2-d88b-4a56-95fc-59272f678b2e.png">
+  - <img width="508" alt="스크린샷 2021-09-28 오전 12 32 14" src="https://user-images.githubusercontent.com/43846264/134939696-e4d1d26f-3fd8-42bb-96e5-a0cb92578c97.png">
+  - <img width="512" alt="스크린샷 2021-09-28 오전 12 32 36" src="https://user-images.githubusercontent.com/43846264/134939765-c2d905b6-aea4-4e78-bb6f-9a869f47ceae.png">
+  - <img width="514" alt="스크린샷 2021-09-28 오전 12 33 03" src="https://user-images.githubusercontent.com/43846264/134939839-37358879-2846-4cc0-84df-28d5f08a38fe.png">
+  - <img width="510" alt="스크린샷 2021-09-28 오전 12 33 51" src="https://user-images.githubusercontent.com/43846264/134939954-c9eb7987-598b-434d-83ad-ca383cc9919e.png">
+  - <img width="507" alt="스크린샷 2021-09-28 오전 12 34 20" src="https://user-images.githubusercontent.com/43846264/134940022-10a5e367-ae65-4d52-9525-2834d8091597.png">
+  - <img width="509" alt="스크린샷 2021-09-28 오전 12 34 45" src="https://user-images.githubusercontent.com/43846264/134940087-9395fe01-7168-4332-91f1-92b1e26f67c3.png">
+  - <img width="511" alt="스크린샷 2021-09-28 오전 12 35 03" src="https://user-images.githubusercontent.com/43846264/134940134-3db7a4a1-acfe-4d90-8281-7b095aee9620.png">
+  - <img width="508" alt="스크린샷 2021-09-28 오전 12 35 24" src="https://user-images.githubusercontent.com/43846264/134940185-fb7e65f4-bed4-493c-a6c5-83a9d9beb944.png">
+  - <img width="512" alt="스크린샷 2021-09-28 오전 12 35 52" src="https://user-images.githubusercontent.com/43846264/134940257-17a402ef-3b9d-4532-97a0-738137a450db.png">
+  - <img width="511" alt="스크린샷 2021-09-28 오전 12 36 22" src="https://user-images.githubusercontent.com/43846264/134940357-438366ed-ff9f-4b66-8ca3-a0cb8b5af828.png">
+  - <img width="507" alt="스크린샷 2021-09-28 오전 12 37 25" src="https://user-images.githubusercontent.com/43846264/134940522-b4a662c0-1798-4879-b3a1-92aa188b3f93.png">
+  - <img width="757" alt="스크린샷 2021-09-28 오전 12 38 08" src="https://user-images.githubusercontent.com/43846264/134940629-e76e3032-fb7f-42a2-a900-5def99beb17e.png">
+  - <img width="752" alt="스크린샷 2021-09-28 오전 12 38 28" src="https://user-images.githubusercontent.com/43846264/134940684-41b3576b-f4b2-4ae9-a072-e9e5e3fbfbc0.png">
+  - <img width="760" alt="스크린샷 2021-09-28 오전 12 39 36" src="https://user-images.githubusercontent.com/43846264/134940863-92928e7c-e96a-41a2-83c4-bd35b1f9a94d.png">
 
 
 
