@@ -122,7 +122,7 @@
     온라인 시험 응시방법 : https://youtu.be/24sguWhTK6A
     제36회 보험심사평가사 자격시험 안내 : https://youtu.be/famtexj5RzY
 
-    제1강 의학용어 : 
+    제1강 의학용어 : https://youtu.be/K98yZQWeNt4
     제2강 의학용어 : 
     제3강 의학용어 : 
     제4강 의료법규 : 
