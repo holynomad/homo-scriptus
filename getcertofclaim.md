@@ -123,7 +123,7 @@
     제36회 보험심사평가사 자격시험 안내 : https://youtu.be/famtexj5RzY
 
     제1강 의학용어 : https://youtu.be/K98yZQWeNt4
-    제2강 의학용어 : 
+    제2강 의학용어 : https://youtu.be/1_LobKZjrG8
     제3강 의학용어 : 
     제4강 의료법규 : 
     제5강 의료법규 : 
