@@ -128,9 +128,9 @@
 
     제1강 의학용어 : https://youtu.be/K98yZQWeNt4
     제2강 의학용어 : https://youtu.be/1_LobKZjrG8
-    제3강 의학용어 : 
-    제4강 의료법규 : 
-    제5강 의료법규 : 
+    제3강 의학용어 : https://youtu.be/tegMAZv0Vng
+    제4강 의료법규 : https://youtu.be/mI-S9O1MV3w
+    제5강 의료법규 : https://youtu.be/iwW2mCTOkNI
     제6강 요양급여기준1 : 
     제7강 요양급여기준1 : 
     제8강 요양급여기준1 : 
@@ -140,6 +140,8 @@
     ```
 
   - 각 카테고리별 키워드 요약 (구글 스프레드시트)
+
+
 ## 결과
 
 ## 회고 (lessons learned)
