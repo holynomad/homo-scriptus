@@ -92,8 +92,8 @@
     - 참고 : [20년 전반기 2급 시험특강 (양쌤튜브)](https://www.youtube.com/watch?v=RuAabm_NzhE&list=PLZX9UECS4orhTwk3V_u3-nSz6FzGaVHa-&index=9)
 
     - `두 가지 factors`
-      -[x] 진단명에 맞는 처방인가 ?
-      -[x] 요양급여기준에 맞는 처방횟수 인가 ?
+      - 진단명에 맞는 처방인가 ?
+      - 요양급여기준에 맞는 처방횟수 인가 ?
       - 예시) 진단명 : 우측 발목의 염좌
         - 검사료 : 발목 X-ray (3매) 1(횟수) x 1(일수), 발목 MRI 1 x 1
         - 주사료 : ketorolac (진통제) 1A(용량: 1 Ample) x IM(용법: 엉덩이주사), 근육주사 1 x 1 (IM 👉 행위료)
