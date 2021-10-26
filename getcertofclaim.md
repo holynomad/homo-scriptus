@@ -100,6 +100,17 @@
         - 이학요법료 : 요추부 전기자극치료 1 x 1
         - 👉 발목 MRI 삭제 (과다청구), 요추부 전기자극치료 삭제 (과다청구)
 
+      - 응급의료관리료 ?
+        - KTAS 1~5등급에 따라 응급증상(1~3등급) 또는 응급에 준하는 증상(4등급) 있어야 산정가능 (👉 5등급은 산정제외)
+      - 수술후 처치료 (a.k.a. dressing) ?
+        - 수술 후 익일부터 산정가능, 진단명 매칭필요
+      - 수액제 주입로를 통한 주사료 (IVS = IV Side) ?
+        - 외래는 1일 1회 산정, 입원은 1일 2회 산정가능
+      - 처치 및 수술료의 야간가산 ?
+        - <img width="540" alt="스크린샷 2021-10-27 오전 12 06 29" src="https://user-images.githubusercontent.com/43846264/138907960-512de790-289d-4d6c-8f93-e4deee8bf455.png"> (참조 : [닥터김의 건강보험 청진기](https://blog.naver.com/PostView.nhn?blogId=39954&logNo=221886305234&parentCategoryNo=&categoryNo=72&viewDate=&isShowPopularPosts=true&from=search))
+        - 진단명과 매칭하여 `응급진료가 불가피한 경우`에 한한 야간가산 50% 산정가능
+
+
  
  
 ## 온라인 시험 진행방법
