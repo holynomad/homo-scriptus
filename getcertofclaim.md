@@ -153,9 +153,9 @@
     제3강 의학용어 : https://youtu.be/tegMAZv0Vng
     제4강 의료법규 : https://youtu.be/mI-S9O1MV3w
     제5강 의료법규 : https://youtu.be/iwW2mCTOkNI
-    제6강 요양급여기준1 : 
-    제7강 요양급여기준1 : 
-    제8강 요양급여기준1 : 
+    제6강 요양급여기준1 : https://youtu.be/TAuX-3hrRyA
+    제7강 요양급여기준1 : https://youtu.be/VN5SyzqafW0
+    제8강 요양급여기준1 : https://youtu.be/s0yZ8K7EL3U
     제9강 요양급여기준2 : 
     제10강 요양급여기준2 : 
     제11강 외래실습 : 
