@@ -160,8 +160,8 @@
     제6강 요양급여기준1 : https://youtu.be/TAuX-3hrRyA
     제7강 요양급여기준1 : https://youtu.be/VN5SyzqafW0
     제8강 요양급여기준1 : https://youtu.be/s0yZ8K7EL3U
-    제9강 요양급여기준2 : 
-    제10강 요양급여기준2 : 
+    제9강 요양급여기준2 : https://youtu.be/MlMtkxMqWfM
+    제10강 요양급여기준2 : https://youtu.be/0y3i0OdZezE
     제11강 외래실습 : 
     ```
 
