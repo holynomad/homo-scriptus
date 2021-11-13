@@ -162,7 +162,7 @@
     제8강 요양급여기준1 : https://youtu.be/s0yZ8K7EL3U
     제9강 요양급여기준2 : https://youtu.be/MlMtkxMqWfM
     제10강 요양급여기준2 : https://youtu.be/0y3i0OdZezE
-    제11강 외래실습 : 
+    제11강 외래실습 : https://youtu.be/fASA0ezD55E
     ```
 
   - 각 카테고리별 키워드 요약 (구글 스프레드시트)
