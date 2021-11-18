@@ -76,6 +76,9 @@
         - 관련 인정기준 중 잘못언급된 부분 체크 🙂
         - <img width="444" alt="스크린샷 2021-09-15 오전 12 21 16" src="https://user-images.githubusercontent.com/43846264/133286215-5536ae08-47e9-47b2-8bde-29c9ac1fbf11.png">
 
+      - 예시5) `골관절염 환자에게 Fentanyl 패취제 투여시 1회 최대처방 허용일수` ?
+        - www.hira.or.kr ➡️ 제도/정책 ➡️ 보험인정기준 ➡️ 고시 ➡️ 검색창 `Fentanyl` ➡️ 2017-153호 마약성진통제 [일반원칙] 참조 ➡️ 페이지 내 `1회` 검색 ➡️ 1회처방당 최대 `30일`까지 인정
+        - <img width="1030" alt="스크린샷 2021-11-19 오전 12 16 03" src="https://user-images.githubusercontent.com/43846264/142443600-2c635fa8-d6b1-481a-b3ef-a7bddbce84b3.png"><img width="668" alt="스크린샷 2021-11-19 오전 12 17 46" src="https://user-images.githubusercontent.com/43846264/142443924-ccae6b5c-d0ed-409a-a63b-1352d5f862bb.png"><img width="521" alt="스크린샷 2021-11-19 오전 12 18 38" src="https://user-images.githubusercontent.com/43846264/142444080-7393bca8-bf4c-46d1-a33e-2fb8a266a3e6.png">
 
 
   - 제2부 의료기초 
