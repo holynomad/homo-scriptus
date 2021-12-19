@@ -27,3 +27,6 @@
 - [길](https://youtu.be/TTW2atvIm9s), 김필(GOD)
 - [기다리다](https://youtu.be/W0TEms6sdmk), 패닉(이적)
 - [그것만이 내 세상](https://youtu.be/wUaFqqZzmLs), 들국화(전인권+YB)
+- [Man on the moon 2007 Live](https://youtu.be/tHfVadaFgZo), T-Square
+- [Man on the moon - cover](https://youtu.be/_p3Jn1ozu9k), ギタリスト門馬由哉の - 門チャンネル - MON channel(T-Square)
+- 
