@@ -11,7 +11,7 @@
 - 꿈, 이무진
 - 코끝에 겨울, 어반자카파
 - 거꾸로 걷는다, 어반자카파
-- 어떤 하루, 어반자카파
+- [어떤 하루](https://youtu.be/A_Tshv1sWGE), 어반자카파
 - 흰수염고래, YB
 - 나비, YB
 - [달이 참 예쁘다고](https://youtu.be/VaQwO6W7PLw), 이승윤
@@ -19,11 +19,11 @@
 - [소년점프](https://youtu.be/tCHubThnE7o), 마미손
 - [널 사랑해](https://youtu.be/naYqwdOud8U), 김정은(숨은그림찾기)
 - [가을아침](https://youtu.be/QT9XfbtVAbE), 아이유
-- [출발](https://youtu.be/fLO78eN0nQM), 김동률(베란다프로젝트)
+- [출발](https://youtu.be/fLO78eN0nQM), 베란다프로젝트(김동률)
 - [긴 여행의 끝](https://youtu.be/aWEP-A6exKY), 페퍼톤스
 - [그대에게](https://youtu.be/SVxiqGiLMCM), 무한궤도
 - [비밀](https://youtu.be/Eb97xUm0laE), 부활
 - [꽃](https://youtu.be/eHWIh-Jn_Dg), 부활
-- [길](https://youtu.be/TTW2atvIm9s), 김필
+- [길](https://youtu.be/TTW2atvIm9s), 김필(GOD)
 - [기다리다](https://youtu.be/W0TEms6sdmk), 패닉(이적)
-- 
+- [그것만이 내 세상](https://youtu.be/wUaFqqZzmLs), 들국화(전인권+YB)
