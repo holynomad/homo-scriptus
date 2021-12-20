@@ -21,6 +21,7 @@
 - [가을아침](https://youtu.be/QT9XfbtVAbE), 아이유
 - [출발](https://youtu.be/fLO78eN0nQM), 베란다프로젝트(김동률)
 - [긴 여행의 끝](https://youtu.be/aWEP-A6exKY), 페퍼톤스
+- [Thank you](https://youtu.be/NU5RPhF21iw), 페퍼톤스
 - [그대에게](https://youtu.be/SVxiqGiLMCM), 무한궤도
 - [비밀](https://youtu.be/Eb97xUm0laE), 부활
 - [꽃](https://youtu.be/eHWIh-Jn_Dg), 부활
@@ -29,4 +30,4 @@
 - [그것만이 내 세상](https://youtu.be/wUaFqqZzmLs), 들국화(전인권+YB)
 - [Man on the moon 2007 Live](https://youtu.be/tHfVadaFgZo), T-Square
 - [Man on the moon - cover](https://youtu.be/_p3Jn1ozu9k), ギタリスト門馬由哉の - 門チャンネル - MON channel(T-Square)
-- 
+- [들었다 놨다](https://youtu.be/VCQkCsyBtj0), 데이브레이크
