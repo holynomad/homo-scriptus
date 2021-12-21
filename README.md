@@ -4,4 +4,6 @@
 
   - ## [HIS 진료개발자의 보험심사평가사 2급 취득기 (feat. 40대 개획자 아저씨)](./getcertofclaim.md)
 
-  - TBD...
+  - ## [기록들](./lifenote.md)
+
+  - ## TBD...
