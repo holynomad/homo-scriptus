@@ -31,3 +31,5 @@
 - [Man on the moon 2007 Live](https://youtu.be/tHfVadaFgZo), T-Square
 - [Man on the moon - cover](https://youtu.be/_p3Jn1ozu9k), ギタリスト門馬由哉の - 門チャンネル - MON channel(T-Square)
 - [들었다 놨다](https://youtu.be/VCQkCsyBtj0), 데이브레이크
+- 그땐 미처 알지 못했지, 이적
+- 내게로, 장혜진
