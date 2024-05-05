@@ -45,19 +45,19 @@ MySQL 취약점 점검
 
   - 가상화 : 데스크톱 가상화, 애플리케이션 가상화, 서버 가상화, 스토리지 가상화, 네트워크 가상화
   - 서비스 모델
-  -   IaaS
-  -   PaaS
-  -   SaaS
+    - IaaS
+    - PaaS
+    - SaaS
   - 배치 모델
-  -   퍼블릭 클라우드 모델
-  -   프라이빗 클라우드 모델
-  -   하이브리드 클라우드 모델
+    - 퍼블릭 클라우드 모델
+    - 프라이빗 클라우드 모델
+    - 하이브리드 클라우드 모델
   - SECaaS : 안랩의 WAF 관제서비스 'WebGuard' 참조
 
 보안장비 운용 - SNORT
 
   - 룰 헤더 설정
-  -   action 유형 및 일반옵션
+    - action 유형(alert, log, drop, reject 등) 및 일반옵션 (msg, sid, rev 등)
   - 룰 바디 설정
-  -   내가 탐지할 payload의 범위를 지정하는 옵션들
-  -   정규표현식
+    - 내가 탐지할 payload의 범위를 지정하는 옵션들 (content, offset, depth, distance, within, nocase 등)
+    - 정규표현식
