@@ -64,7 +64,7 @@ MySQL 취약점 점검
 
 ## 2024-05-06
 
-snort를 이용한 침입탐지시스템 운영
+snort를 이용한 침입탐지시스템 운영 `15:50~17:15`
 
   - alert tcp $EXTERMAL_NET any -> $HOME_NET any (msg:"[TEST] offset_depth"; content:"test"; offset:2; depth:4; nocase; sid:1000012;
   - pcre (Perl Compatible Regular Expression) 옵션 
@@ -74,14 +74,14 @@ snort를 이용한 침입탐지시스템 운영
     - threshold:type threshold, track by_dst, count 5, seconds 30;
     - threshold:type both, track by_dst, count 3, seconds 60;
 
-iptables를 이용한 침입차단시스템 운영
+iptables를 이용한 침입차단시스템 운영 `22:00~22:40`
 
   - 상태추적 (connection tracking 또는 stateful inspection) 기능
     - 방화벽 통과하는 모든 패킷 연결 상태 추적해서 메모리 기억 & 비교해서 통과/거부 판단
   - iptables -A INPUT -p tcp ! --syn -m state --state NEW -j DROP
   - iptables -A INPUT -p tcp --tcp-flags ALL NONE -m limit --limit 1/second -j LOG --log-prefix "[NULL scan LOG limit]"
 
-보안솔루션 (I)
+보안솔루션 (I) `22:50~23:30`
 
   - 무선침입방지시스템 (WIPS : Wireless Intrusion Prevention System)
   - 네트워크접근제어 (NAC : Network Access Control)
