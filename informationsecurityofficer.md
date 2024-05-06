@@ -61,3 +61,31 @@ MySQL 취약점 점검
   - 룰 바디 설정
     - 내가 탐지할 payload의 범위를 지정하는 옵션들 (content, offset, depth, distance, within, nocase 등)
     - 정규표현식
+
+## 2024-05-06
+
+snort를 이용한 침입탐지시스템 운영
+
+  - alert tcp $EXTERMAL_NET any -> $HOME_NET any (msg:"[TEST] offset_depth"; content:"test"; offset:2; depth:4; nocase; sid:1000012;
+  - pcre (Perl Compatible Regular Expression) 옵션 
+    - pcre:"/^(GET|POST)/"
+  - event threshold 관련 옵션
+    - threshold:type limit, track by_dst, count 1, seconds 5;
+    - threshold:type threshold, track by_dst, count 5, seconds 30;
+    - threshold:type both, track by_dst, count 3, seconds 60;
+
+iptables를 이용한 침입차단시스템 운영
+
+  - 상태추적 (connection tracking 또는 stateful inspection) 기능
+    - 방화벽 통과하는 모든 패킷 연결 상태 추적해서 메모리 기억 & 비교해서 통과/거부 판단
+  - iptables -A INPUT -p tcp ! --syn -m state --state NEW -j DROP
+  - iptables -A INPUT -p tcp --tcp-flags ALL NONE -m limit --limit 1/second -j LOG --log-prefix "[NULL scan LOG limit]"
+
+보안솔루션 (I)
+
+  - 무선침입방지시스템 (WIPS : Wireless Intrusion Prevention System)
+  - 네트워크접근제어 (NAC : Network Access Control)
+  - 통합보안시스템 (UTM : Unified Threat Management)
+  - 엔드포인트 탐지 및 대응 솔루션 (EDR : Endpoint Detection and Response)
+  - 스팸차단솔루션 (Anti-Spam Solution)
+  - 보안운영체제 (Secure OS)
