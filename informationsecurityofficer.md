@@ -225,4 +225,42 @@ DBD 침해사고 공격/분석 시나리오 `21:40~23:00`
   - 정적분석 (아이다, 올리디버거 OllyDbg) & 동적분석
   - 윈도우 PE(Portable Executable) 파일
 
+## 2024-05-13
 
+윈도우 레지스트리 분석 시나리오 `19:30~20:30`
+
+  - HKLM > ... > Current Version > Run > 윈도우 시작 시 동작하는 시작 프로그램에 악성코드 등록
+  - HKCU > ... > Current Version > Run > 현재 사용자 로그인 시 동작하는 시작 프로그램에 악성코드 등록
+  - HKLM > ... > Current Version > Winlogon : "Userinit" > 윈도우 로그인 시 (모든 사용자) 동작하는 시작 프로그램에 악성코드 등록
+  - HKLM > ... > Services : "Start"=dword:00000002 > 서비스 자동 실행에 악성코드 등록
+  - HKCR > ... > Directory > shell > ... > command > 윈도우 탐색기 디렉터리의 context menu에 commandPrompt 메뉴명 추가하고 악성코드 등록
+  - HKLM > ... > batfile > shell > ... > command > 배치파일 실행 시 악성코드가 먼저 동작하도록 등록
+  - HKLM > ... > FirewallPolicy : "EnableFirewall"=dword:00000000 > 윈도우 방화벽 기능 비활성화
+  - HKLM > ... > FirewallPolicy > ... > AuthorizedApplicationList > 윈도우 방화벽에 악성코드를 예외 허용 프로그램으로 등록
+  - HKLM > ... > OpenPorts > List : "4321:TCP:*:Enabled" > 윈도우 방화벽에 4321/tcp 포트 오픈 허용
+  - HKCU > ... : "Hidden"=dword:00000002 > 현재 사용자의 숨김 파일 및 폴더를 표시 안 함으로 설정
+  - HKLM > ... > Folder > Hidden> SHOWALL : "CheckedValue"=dword:00000000 > 모든 사용자에 대해 숨김 파일 및 폴더를 표시함으로 변경하지 못하도록 설정
+  - HKCU > ... : "ShowSuperHidden"=dword:00000000 > 현재 사용자에 대해 보호된 운영체제 파일 숨기기 설정
+  - HKLM > ... > Folder > SuperHidden : "UncheckedValue"=dword:00000000 > 모든 사용자에 대해 보호된 운영체제 파일 숨기기를 해제하지 못하도록 설정
+
+워터링 홀 침해사고 시나리오 `23:00~23:30`
+
+APT `23:30~24:00`
+
+  - 초기 정찰
+  - 초기 침입
+  - 거점 마련
+  - 권한 상승
+  - 내부 정찰
+  - 내부 침투
+  - 지속성 유지
+  - 목표 달성
+  - 주요 침투 기법 : 스피어 피싱, 워터링 홀, USB 메모리 스틱
+
+사이버 킬 체인 `24:00~24:15`
+
+SSH 포트포워딩 `24:15~24:40`
+
+  - SSH 클라이언트가 SSH 서버에 접속하여 ㅁ나든 연결을 다른 애플리케이션에서 이용하여 통신할 수 있는 기술
+  - 포트포워딩 또는 터널링이라고 표현
+  - 애플리케이션이 SSH 포트 포워딩을 사용하는 이유는 암호화, 인증 등의 SSH의 보안 기능을 그대로 이용할 수 있는 장점 > 이를 악용하여 의도적으로 방화벽 우회 후 내부 시스템 침투하는 등 공격에도 활용될 수 있는 위험 있음
