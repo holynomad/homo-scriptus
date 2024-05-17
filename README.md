@@ -6,7 +6,7 @@
 
   - ## 2024 CPPG 3주만에 취득하기 (TBD)
 
-  - ## 2024 CSTS 4주만에 취득하기 (TBD)
+  - ## [2024 CSTS 4주만에 취득하기] (./getCSTS.md)
 
   - ## [2024 정보보안기사 취득기](./informationsecurityofficer.md)
 
