@@ -10,7 +10,7 @@
 
   - ## [2024 정보보안기사 취득기](./informationsecurityofficer.md)
 
-  - ## 2024 SW 보안약점 진단원 취득기 (TBD)
+  - ## [2024 SW 보안약점 진단원 취득기](./getSWdevuldiag.md)
 
   - ## 2024 PIA 취득기 (TBD)
 
