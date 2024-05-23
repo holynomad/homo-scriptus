@@ -57,8 +57,5 @@
 
   ..
   대략 5분도 안되어서 답장이 왔다.
-
-  ![IMG_0096](https://github.com/holynomad/homo-scriptus/assets/43846264/9b82695e-8cc4-4044-95b3-c13bc044b708)
-
-  
   ```
+  ![IMG_0096](https://github.com/holynomad/homo-scriptus/assets/43846264/9b82695e-8cc4-4044-95b3-c13bc044b708)
