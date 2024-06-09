@@ -508,7 +508,9 @@
 ## 2024-06-09
 
   ```
-  D-6
+  D-6. 우물쭈물 거릴 시간이 없다.
+
+  전략을 갖고 전술적으로 남은 시간 파고드는거다.
 
   12장. 테스트 계획
 
@@ -568,3 +570,4 @@
             ㄴ 탐색적 테스트
 
   ```
+  참고) [여기어때 기술블로그 - TestProject 이용한 테스트 자동화](https://techblog.gccompany.co.kr/testproject%EB%A1%9C-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-c63a52e25b25)
