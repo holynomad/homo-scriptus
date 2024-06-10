@@ -571,3 +571,15 @@
 
   ```
   참고) [여기어때 기술블로그 - TestProject 이용한 테스트 자동화](https://techblog.gccompany.co.kr/testproject%EB%A1%9C-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-c63a52e25b25)
+
+## 2024-06-10
+
+  ```
+  D-5,
+  시간도 여유도 없을 땐 변칙적으로 가보는거다.
+  정답은 없다.
+
+  오직 문제해결을 위한 다양한 도전만 있을 뿐.
+
+  
+  ```
