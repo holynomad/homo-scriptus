@@ -94,3 +94,19 @@
     - 캡슐화 : 4개
     - API오용 : 2개
   ```
+
+## 2024-06-19
+
+  ```
+  진단원 양성교육 3일차.
+
+  어렵고 범위가 넓어 쉽지 않다.
+  하지만, 지난 6개월간 내가 집중하면서 노력해온 방향이 헛되지 않았음을
+  양성교육이 검증해 주었다.
+
+  망설이지 말고,
+  가 자
+
+  (아래는 eclipse에 plug-in으로 SPOTBUGS/FINDSECURITYBUGS 설치하고 취약소스 exploring 샘플)
+  ```
+<img width="1394" alt="image" src="https://github.com/holynomad/homo-scriptus/assets/43846264/90a21a77-9584-4e44-b265-55d2a1aa9100">
