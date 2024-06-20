@@ -110,3 +110,20 @@
   (아래는 eclipse에 plug-in으로 SPOTBUGS/FINDSECURITYBUGS 설치하고 취약소스 exploring 샘플)
   ```
 <img width="1394" alt="image" src="https://github.com/holynomad/homo-scriptus/assets/43846264/90a21a77-9584-4e44-b265-55d2a1aa9100">
+
+## 2024-06-20
+
+  ```
+  진단원 양성교육 4일차.
+
+  내일 설계단계 20가지, 구현단계 20가지 부록 훑고
+  python, javascript 시큐어코딩 쭉 훑으면 교육은 마무리 예정.
+
+  저녁때 반포로 넘어가서
+  5년만의 임상 데이터톤 1일차, policy workshop 참석 예정.
+
+  어찌됐든
+  다음주 토요일 1차 시험은 단기 스프린트로
+  이 악물고,
+  고
+  ```
