@@ -33,3 +33,4 @@
 - [들었다 놨다](https://youtu.be/VCQkCsyBtj0), 데이브레이크
 - 그땐 미처 알지 못했지, 이적
 - 내게로, 장혜진
+- [Happy day](https://youtu.be/SeS8u9WG3d0?si=yPZlCuaK9P-BuGfc), 체리필터
