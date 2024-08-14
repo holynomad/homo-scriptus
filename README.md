@@ -12,7 +12,7 @@
 
   - ## [2024 SW 보안약점 진단원 취득기](./getSWdevuldiag.md)
 
-  - ## 2024 PIA 취득기 (TBD)
+  - ## [2024 PIA 취득기](./getPIA.md)
 
   - ## 2024 AWS Certified Cloud Practitioner 취득기 (TBD)
 
