@@ -36,3 +36,23 @@
 
   10월이 기다려진다.
   ```
+
+### 2024-09-28
+
+![IMG_0799](https://github.com/user-attachments/assets/abfb8614-6870-44b7-929a-1e90f215a27d)
+![IMG_0800](https://github.com/user-attachments/assets/19b7eeb4-472f-4b49-b900-8fe905bc0ac4)
+![IMG_0801](https://github.com/user-attachments/assets/843712d6-2be2-4669-8ed3-d5660d5403d7)
+
+  ```
+  PIA 2-2차 실습교육 1일차.
+
+  공부하면 할수록
+  재밌지만 어렵다.
+
+  그래도 오프라인 교육을 통해
+  정보보안, 개인정보보호 업계의 전문가 분들을 만나뵐 수 있어
+
+  좋다.
+  ```
+
+
