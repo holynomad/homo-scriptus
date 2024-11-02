@@ -14,7 +14,7 @@
 
   - ## [2024 PIA 취득기 (ing)](./getPIA.md)
 
-  - ## 2024 AWS Certified Cloud Practitioner 취득기 (TBD)
+  - ## [2024 AWS Certified Cloud Practitioner 취득기 (TBD)](./getCP.md)
 
   - ## 정보시스템감리사 취득기 (TBD)
 
