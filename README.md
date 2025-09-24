@@ -10,11 +10,15 @@
 
   - ## [2024 정보보안기사 취득기](./informationsecurityofficer.md)
 
-  - ## [2024/2025 SW 보안약점 진단원 취득기 (ing)](./getSWdevuldiag.md)
+  - ## [2024 SW 보안약점 진단원 도전기 (실패)](./getSWdevuldiag.md)
 
-  - ## [2024/2025 PIA 취득기 (ing)](./getPIA.md)
+  - ## [2025 SW 보안약점 진단원 도전기](./getSWdevuldiag_2025.md)
 
-  - ## [2024/2025 AWS Certified Cloud Practitioner 취득기 (TBD)](./getCP.md)
+  - ## [2024 PIA 도전기 (실패)](./getPIA.md)
+
+  - ## [2025 PIA 도전기](./getPIA_2025.md)
+
+  - ## [2025 AWS Certified Cloud Practitioner 취득기 (TBD)](./getCP.md)
 
   - ## 정보시스템감리사 취득기 (TBD)
 
